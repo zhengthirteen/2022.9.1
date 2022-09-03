@@ -1,0 +1,4 @@
+﻿  1.c
+D:\code\2022.9\1\1.c(9,18): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\code\2022.9\1\1.c(7,1): warning C4305: “初始化”: 从“double”到“float”截断
+  1.vcxproj -> D:\code\2022.9\1\x64\Debug\1.exe
